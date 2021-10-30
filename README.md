@@ -18,4 +18,4 @@ This project was to continuing practice DOM manipulation and dynmically renderin
 
 ### Live Demo
 
-See the [demo](https://victoriacheng15.github.io/top-library/)
+See the [demo](https://victoriacheng15.github.io/top-restaurant-page/)
